@@ -1,0 +1,9 @@
+sentence-transformers==2.2.0
+torch==1.6.0
+torchvision
+torchaudio
+transformers==4.6.0
+pandas==1.4.3
+faiss-gpu==1.7.2
+umap-learn[plot]==0.5.3
+numpy<1.23
